@@ -1,4 +1,5 @@
 //adding comment so I can commit and make new branch, nothing in code changed
+//adding another comment in order to practice merging, pulling in git
 <a href="https://daybydaycrm.com/">
     <img src="https://user-images.githubusercontent.com/15610490/69175894-ed771300-0b04-11ea-9ecd-a5ad6e3d8877.png"  height="100" />
 </a>
